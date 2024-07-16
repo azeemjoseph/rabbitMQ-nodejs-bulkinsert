@@ -39,7 +39,7 @@ BulkInsertRabbitMQ is an application designed to help users track to upload bulk
 
 - **Node js:** A JavaScript enviornment for building.
 - **express js:** A node js framework for node js.
-- **Objection js** A node js framework for node js.
+- **knex js** A query builder for node js.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#code-structure)
 
@@ -51,7 +51,7 @@ The BulkRead backend project follows a structured organization to maintain clari
 
 ## ➤ Features
 
-- **BulkDataRead:** Using node js and Object js.
+- **BulkDataRead:** Using node js, rabbitMQ and knex js.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#installation)
 

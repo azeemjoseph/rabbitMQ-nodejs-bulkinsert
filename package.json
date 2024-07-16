@@ -1,0 +1,17 @@
+{
+  "name": "bulkread-rabbitmq",
+  "version": "1.0.0",
+  "description": "insert 100000 json record",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wjiks",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.10.4",
+    "express": "^4.19.2",
+    "knex": "^3.1.0",
+    "mysql2": "^3.10.3"
+  }
+}

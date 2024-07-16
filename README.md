@@ -68,7 +68,7 @@ To run the BulkRead backend locally, follow these steps:
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd bulkreadknex
+   cd rabbitMQ-nodejs-bulkinsert
    ```
 
 3. **Install Dependencies:**
